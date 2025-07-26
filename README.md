@@ -30,3 +30,5 @@ React-приложение для отображения случайных пе
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/farid45/rick-and-morty-cards.git
+npm install
+npm start
